@@ -2,6 +2,6 @@
   "name": "spitnode",
   "website": "spitnode.localhost.com",
   "description": "Spit Validator node ",
-  "logo": "https://github.com/spitmk4/chainbase/blob/main/spitmk4white.png",
+  "logo": "https://raw.githubusercontent.com/spitmk4/chainbase/refs/heads/main/spitmk4white.png",
   "twitter": "https://x.com/spit_mk4"
 }
